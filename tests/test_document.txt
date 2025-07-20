@@ -1,0 +1,2 @@
+Ceci est un document de test. 
+Le système doit fonctionner correctement.
